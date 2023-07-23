@@ -1,0 +1,3 @@
+C:/Users/Gaming/CLionProjects/praktika/cmake-build-debug/CMakeFiles/praktika.dir
+C:/Users/Gaming/CLionProjects/praktika/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Gaming/CLionProjects/praktika/cmake-build-debug/CMakeFiles/rebuild_cache.dir
